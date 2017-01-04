@@ -1,2 +1,2 @@
-test4
-test2
+Sport:Quel est le prénom de Zidane ?,Zinedine/Qui a remporté la coupe du monde en 98 ?,France/Combien de titre a eu Schumacher en F1?,7/Combien de mm fait une balle de ping pong ?,40
+Cinéma:Combien de Star Wars existe t-il ?,7/Quel est le premier film parlant ?,Le chanteur de jazz/En quel année est sortie Titanic ?,1997
